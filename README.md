@@ -1,2 +1,2 @@
 # Desafio-T-cnico-Mediano-em-
-Nesse desafio, que foi passado no curso Té
+Nesse desafio, que foi passado no curso T
