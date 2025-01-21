@@ -1,2 +1,2 @@
 # Desafio-T-cnico-Mediano-em-
-Nesse desafio, que foi passado no curso Técnico em Informáti
+Nesse desafio, que foi passado no curso Técnico em Informát
