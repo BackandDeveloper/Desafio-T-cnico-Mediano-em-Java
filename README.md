@@ -1,2 +1,2 @@
 # Desafio-T-cnico-Mediano-em-Jav
-Nesse desafio, que foi passado no curso Técnico em Informática, teve o objetivo de exercitar nosso
+Nesse desafio, que foi passado no curso Técnico em Informática, teve o objetivo de exercitar noss
