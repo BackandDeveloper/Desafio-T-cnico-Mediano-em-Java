@@ -1,2 +1,2 @@
 # Desafio-T-cnico-Mediano-em-
-Nesse desafio, que foi pass
+Nesse desafio, que foi pas
